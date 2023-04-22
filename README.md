@@ -1,11 +1,12 @@
 # final-project-repositories-b2park17
 
 Story Pitch:
+<br>
 The COVID-19 pandemic has been a serious issue since its emergence in 2019. The pandemic has affected millions of people over the years. A number of researchers are continuing their studies in order to solve the issues that come up with the pandemic. For our study, our main topic of the project will be about determining if there is a correlation between the mortality rate of COVID-19 and the weather temperature. 
 The strong, central, unifying theme is a yearning to understand COVID-19 as a result of the loss of life, income, and stability that it has caused. There have been several research papers that have been done on this topic, but there are no solid conclusions on it yet. The topic of our final project deals with the fundamental issues in our world, as millions of lives have been affected by the COVID-19 pandemic. There is an opportunity for us to offer intelligent insight because we would talk about how temperature could have an impact on people infected with the virus and this is not a question that can be simply answered with common sense. There are still scientific debates on whether temperature does have an impact on the mortality rate so this project will give new insights that aren’t obvious. 
 The elements of drama with this arise from people who think COVID-19 is over, and people at risk of death from the virus. Many people think that viruses are vulnerable to heat. However, COVID-19 seemed to contradict this belief as infection of COVID-19 did not decrease during the summer. Taking a look at the data we found to see if there is a correlation will provide more information on mortality. Overall, the story we would tell is about how the weather temperature affects and correlates with the mortality rates of COVID-19. Even though there is a chance that the correlation is not statistically significant, it will still provide an interesting story contradicting one of the researches made. 
 
-Final Datasets We Will Use:
+Final Datasets We Will Use:<br>
 (NOAA) Average Temperature of US States by Month
 https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/1/tavg/all/1/2021-2022?base_prd=true&begbaseyear=1901&endbaseyear=2000
 The data is collected by NOAA(National Oceanic and Atmospheric Administration). NOAA stored the average temperature for each month for all 50 states in the US.
@@ -20,7 +21,7 @@ Deaths are regularly reported to the National VItal Statiustics system to get pr
 
 
 
-Background Research:
+Background Research:<br>
 
 Effects of Weather on Covid-19
  https://www.mdpi.com/1660-4601/17/15/5399
