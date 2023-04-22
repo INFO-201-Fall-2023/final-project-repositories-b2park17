@@ -12,6 +12,7 @@ Link:https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/t
 - The data is collected by NOAA(National Oceanic and Atmospheric Administration). NOAA stored the average temperature for each month for all 50 states in the US.
 - There are data for the average temperature for each month for all 50 states for year 2021
 - We selected certain states for our data.There are going to be 180 rows and 7 columns.<br>
+
 **2.(CDC) United States COVID-19 Cases and Deaths by State over Time - ARCHIVED**<br>
 Link:https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36<br>
 - There are 60,061 rows and 15 columns 
