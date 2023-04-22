@@ -7,17 +7,17 @@ The strong, central, unifying theme is a yearning to understand COVID-19 as a re
 The elements of drama with this arise from people who think COVID-19 is over, and people at risk of death from the virus. Many people think that viruses are vulnerable to heat. However, COVID-19 seemed to contradict this belief as infection of COVID-19 did not decrease during the summer. Taking a look at the data we found to see if there is a correlation will provide more information on mortality. Overall, the story we would tell is about how the weather temperature affects and correlates with the mortality rates of COVID-19. Even though there is a chance that the correlation is not statistically significant, it will still provide an interesting story contradicting one of the researches made. 
 
 Final Datasets We Will Use:<br>
-(NOAA) Average Temperature of US States by Month
-https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/1/tavg/all/1/2021-2022?base_prd=true&begbaseyear=1901&endbaseyear=2000
+(NOAA) Average Temperature of US States by Month<br>
+https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/statewide/time-series/1/tavg/all/1/2021-2022?base_prd=true&begbaseyear=1901&endbaseyear=2000<br>
 The data is collected by NOAA(National Oceanic and Atmospheric Administration). NOAA stored the average temperature for each month for all 50 states in the US.
 There are data for the average temperature for each month for all 50 states for year 2021
-We selected certain states for our data.There are going to be 180 rows and 7 columns.
-(CDC) United States COVID-19 Cases and Deaths by State over Time - ARCHIVED
-https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36
+We selected certain states for our data.There are going to be 180 rows and 7 columns.<br>
+(CDC) United States COVID-19 Cases and Deaths by State over Time - ARCHIVED<br>
+https://data.cdc.gov/Case-Surveillance/United-States-COVID-19-Cases-and-Deaths-by-State-o/9mfq-cb36<br>
 There are 60,061 rows and 15 columns 
 Data is collected by CDC(Center for Disease Control)
 Health departments report the cases of confired cases,deaths to CDC and try to reprot the most accurate and up to date data possible. There are possibilities that not all cases of COVID-19 is reported but by far data is very accurate 
-Deaths are regularly reported to the National VItal Statiustics system to get provisioned on accuracy.
+Deaths are regularly reported to the National VItal Statiustics system to get provisioned on accuracy.<br>
 
 
 
