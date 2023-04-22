@@ -23,28 +23,28 @@ Deaths are regularly reported to the National VItal Statiustics system to get pr
 
 Background Research:<br>
 
-Effects of Weather on Covid-19
- https://www.mdpi.com/1660-4601/17/15/5399
+Effects of Weather on Covid-19<br>
+ https://www.mdpi.com/1660-4601/17/15/5399<br>
 This research paper gave us the initial interest about the topic. The research paper conducted a global scale research of finding out if the spread of COVID-19 was affected by temperature and humidity. 
 We decided to focus our project on just temperature because we thought the effect of temperature would be greater than just humidity alone.
 
-Coronavirus in the U.S.: Latest Map and Case Count (NY Times)
-https://www.nytimes.com/interactive/2021/us/covid-cases.html
+Coronavirus in the U.S.: Latest Map and Case Count (NY Times)<br>
+https://www.nytimes.com/interactive/2021/us/covid-cases.html<br>
 This page gave us an idea about how we want to present our information as there were data, graphs, and interactive maps.
 An interactive map would be an interesting way to represent the data we are going to look at.
 
-Global to USA County Scale Analysis of Weather, Urban Density, Mobility, Homestay, and Mask Use on COVID-19(University of Texas,Austin, research results)
-https://news.utexas.edu/2020/11/02/hot-or-cold-weather-alone-has-no-significant-effect-on-covid-19-spread/ (news article)
-https://www.mdpi.com/1660-4601/17/21/7847 
-This is another research paper that we thought was interesting. Their study compared different factors that could affect the spread of COVID-19, including weather, mask use, and urban density. 
-We decided to see if there is a correlation between the spread and mortality of COVID-19 since most research deals with the spread of COVID-19 rather than the mortality rate.
+Global to USA County Scale Analysis of Weather, Urban Density, Mobility, Homestay, and Mask Use on COVID-19(University of Texas,Austin, research results)<br>
+https://news.utexas.edu/2020/11/02/hot-or-cold-weather-alone-has-no-significant-effect-on-covid-19-spread/ (news article)<br>
+https://www.mdpi.com/1660-4601/17/21/7847 <br>
+This is another research paper that we thought was interesting. Their study compared different factors that could affect the spread of COVID-19, including weather, mask use, and urban density. <br>
+We decided to see if there is a correlation between the spread and mortality of COVID-19 since most research deals with the spread of COVID-19 rather than the mortality rate.<br>
 
-Medical News Today: How does Weather Affect Covid-19
-https://www.medicalnewstoday.com/articles/how-does-weather-affect-covid-19#Hours-of-sunshine-and-UV-light- 
+Medical News Today: How does Weather Affect Covid-19<br>
+https://www.medicalnewstoday.com/articles/how-does-weather-affect-covid-19#Hours-of-sunshine-and-UV-light- <br>
 This article furthered our understanding of how weather and viruses relate. Also, the article takes UV light into account which we found to be interesting.
 The article talks about how hard it is to correlate the temperature with COVID-19 infection as there are many other factors that could contribute to the infection. 
 
-Harvard Article on Coronavirus and climate change
-https://www.hsph.harvard.edu/c-change/subtopics/coronavirus-and-climate-change/ 
+Harvard Article on Coronavirus and climate change<br>
+https://www.hsph.harvard.edu/c-change/subtopics/coronavirus-and-climate-change/ <br>
 This article provided a vast amount of information on our topic. It talks about the possibility of climate change, contact made between animals due to weather temperature, and air pollution that could lead to a possible increase in infection rate. 
 An additional topic shown that connects to our project that piqued our interest was the effect of pollution, but we decided not to do it as we thought correlation from temperature was more interesting.
